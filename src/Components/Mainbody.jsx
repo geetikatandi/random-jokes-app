@@ -19,7 +19,7 @@ const Mainbody = () => {
   };
 
   return (
-    <section className="p-4 py-8 bg-blue-400 min-h-[300px] grid place-content-center">
+    <section className="container mx-auto p-4 py-8 bg-blue-400 min-h-[300px] grid place-content-center">
       <div className="container flex flex-col text-center gap-8 max-w-[1300px] mx-auto">
         <div className="text font-medium text-base max-w-[600px] mx-auto">
           <p>
